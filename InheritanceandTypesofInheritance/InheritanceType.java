@@ -1,4 +1,4 @@
-package InheritanceType;
+package InheritanceandTypesofInheritance;
 
 class A
 {
